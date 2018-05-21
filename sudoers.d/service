@@ -1,0 +1,2 @@
+nobody ALL=(root) NOPASSWD: /sbin/service
+Defaults: nobody !requiretty
